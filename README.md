@@ -1,4 +1,4 @@
--- Sales-Overview using SQL, Excel and PowerBI
+-- Sales Overview using SQL, Excel and PowerBI
 the business needed to know:
 1-How much do they sell?
 2-What are the most sold products?
